@@ -20,13 +20,16 @@
         }
     </style>
 </head>
-    <?php
-        $i = 1;
-        do {
-             echo "<span style='font-size:".$i."px;'>$i</span><br>";
-             $i++;
-        }
-
-        while($i <= 30)
+<body>
+    <div class="container">
+        <h1>Make it Bigger</h1>
+        <?php
+            $i = 1;
+            do {
+                echo "<span style='font-size:{$i}px;'>$i</span><br>";
+                $i++;
+            } while ($i <= 30);
         ?>
+    </div>
+</body>
 </html>
