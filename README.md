@@ -1,2 +1,3 @@
 # Functions-and-Control-Structures
 5-1 Functions and Control Structures exercises
+This repository contains exercises and examples focused on functions and control structures in programming. It is designed to help learners understand how to define and use functions, as well as implement conditional statements and loops to control program flow. Each exercise aims to reinforce key concepts and provide practical experience.
