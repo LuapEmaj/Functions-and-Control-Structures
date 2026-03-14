@@ -15,7 +15,7 @@
             text-align: center;
         }
        th{
-            background-color: #00014a;
+            background-color: #5c5d61;
         }    
        td{
             background-color: white;
